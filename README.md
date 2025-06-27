@@ -35,4 +35,3 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/garg-shiv/Devixa.ai?utm_source=oss&utm_medium=github&utm_campaign=garg-shiv%2FDevixa.ai&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
